@@ -14,7 +14,6 @@
 ## 🛠️ Установка и запуск  
  
 ### 1️⃣ Склонируйте репозиторий  
-```bash
 git clone https://github.com/your-username/short-link-service.git
 cd short-link-service
 ### 2️⃣ Скомпилируйте код
